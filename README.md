@@ -1,4 +1,4 @@
-# Decompression Effect of different Quantization Fator 'L' on an image compared to the one before Compression Techniques (DCT, quantization, RLC)
+# Decompression Effect of different Quantization Fator 'L' on an image compared to the ones before Compression Techniques (DCT, quantization, RLC)
 
 
 Analyzing the results demonstrated by the images after decompression on applying different values of quantization factor ‘L’ and comparing them to the original images before compression. Using a client-server setup compression techniques (DCT, quantization, RLC) are performed at the client side, then a compressed image is sent to server through TCP-IP and finally decompression is performed on the server side.
